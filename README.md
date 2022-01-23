@@ -3,9 +3,9 @@
 # This is a script I've had for a while, Just added a few configurable options.
 
 
-# Required QB-Target
+# Requires QB-Target
 
-# Change the Model and coords to move the ped
+Change the Model and coords to move the ped
 
 ["SecretShop"] = {
         model = 'a_c_rhesus',
